@@ -5,6 +5,7 @@ A library of useful references, reading notes, and future adaptations for creati
 ## References
 
 - [Character design](references/character-design.md) — saved for its structure and thought process; its visual style is not an adopted preference. Reference only, not yet adapted.
+- [Art-style prompt collection — WeChat](references/art-style-prompts-wechat.md) — link saved for future style selection; article content, attribution, and reuse terms pending review. No skills created.
 
 ## Saving and adapting sources
 

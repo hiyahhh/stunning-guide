@@ -1,8 +1,14 @@
 # stunning-guide
 
-A library of useful references, reading notes, and future adaptations for creative and technical work.
+A library of saved references and created skills for creative and technical work.
 
-## References
+## Created skills
+
+Original reusable workflows created or adapted into executable skills. These are distinct from sources saved for later.
+
+- [Camera Movement Director](skills/camera-movement-director/SKILL.md) — run after dramatic intent and rough blocking, before final storyboards, shot lists, or video prompts. [Installation and checks](skills/camera-movement-director/README.md). Created with AI assistance; StudioBinder sources are credited, and full video analysis remains unverified.
+
+## Saved references
 
 - [Character design](references/character-design.md) — saved for its structure and thought process; its visual style is not an adopted preference. Reference only, not yet adapted.
 - [Art-style prompt collection — WeChat](references/art-style-prompts-wechat.md) — link saved for future style selection; article content, attribution, and reuse terms pending review. No skills created.

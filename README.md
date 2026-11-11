@@ -27,6 +27,9 @@ Original reusable workflows created or adapted into executable skills. These are
 - [AI love-story video tutorial — Higgsfield](references/ai-love-story-higgsfield.md) — by adilinthewild; title and creator verified in the community directory. Full article and reuse terms pending review; no skill created.
   - [AI 爱情故事视频教程 — Higgsfield](references/ai-love-story-higgsfield.md) — 作者为 adilinthewild；标题和作者已通过社区目录核实。完整文章及复用条款尚待审查；尚未创建技能。
 
+- [TTAIGC — prompt and Skill library](references/ttaigc.md) — saved for film styles, cinematography and bilingual AI prompts; identified from video screenshots by matching entries and category counts. Reuse terms pending review.
+  - [TTAIGC — 提示词与 Skill 参考库](references/ttaigc.md) — 收藏电影风格、摄影技法及中英文 AI 提示词入口；已通过词条与分类数量匹配视频截图。复用条款尚待审查。
+
 ## Saving and adapting sources / 保存与改编来源资料
 
 For each reference, record the original URL, author credits, why it is useful, and the source license review. Keep external references distinct from personal adaptations and ready-to-use skills.

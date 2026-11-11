@@ -24,6 +24,9 @@ Original reusable workflows created or adapted into executable skills. These are
 - [Art-style prompt collection — WeChat](references/art-style-prompts-wechat.md) — link saved for future style selection; article content, attribution, and reuse terms pending review. No skills created.
   - [艺术风格提示词合集 — 微信](references/art-style-prompts-wechat.md) — 保存链接，供日后选择风格时参考；文章内容、署名和复用条款尚待审查。尚未据此创建技能。
 
+- [AI love-story video tutorial — Higgsfield](references/ai-love-story-higgsfield.md) — by adilinthewild; title and creator verified in the community directory. Full article and reuse terms pending review; no skill created.
+  - [AI 爱情故事视频教程 — Higgsfield](references/ai-love-story-higgsfield.md) — 作者为 adilinthewild；标题和作者已通过社区目录核实。完整文章及复用条款尚待审查；尚未创建技能。
+
 ## Saving and adapting sources / 保存与改编来源资料
 
 For each reference, record the original URL, author credits, why it is useful, and the source license review. Keep external references distinct from personal adaptations and ready-to-use skills.

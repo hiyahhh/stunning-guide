@@ -17,6 +17,11 @@ Original reusable workflows created or adapted into executable skills. These are
 - [Camera Movement Director](skills/camera-movement-director/SKILL.md) — run after dramatic intent and rough blocking, before final storyboards, shot lists, or video prompts. [Installation and checks](skills/camera-movement-director/README.md). Created with AI assistance; StudioBinder sources are credited, and full video analysis remains unverified.
   - [镜头运动导演](skills/camera-movement-director/SKILL.md) — 在明确戏剧意图和初步走位后、定稿分镜、镜头清单或视频提示词前使用。[安装与检查](skills/camera-movement-director/README.md)。借助 AI 创建；已注明 StudioBinder 来源，但尚未完成对完整视频的分析核实。
 
+## Invitations / 邀请码
+
+- [Muse invitation code: 82QWTL](invitations/muse.md) — how to join and redeem in Settings within 48 hours. The shared offer says both people receive 1 billion Muse tokens; eligibility and current terms are determined by Muse. This is a referral invitation.
+  - [Muse 邀请码：82QWTL](invitations/muse.md) — 注册后 48 小时内在设置中兑换的操作说明。分享的邀请信息称双方各获 10 亿 Muse tokens；资格与现行条款以 Muse 为准。这是一项推荐邀请。
+
 ## Saved references / 收藏的参考资料
 
 - [Character design](references/character-design.md) — saved for its structure and thought process; its visual style is not an adopted preference. Reference only, not yet adapted.
